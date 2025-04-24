@@ -1,5 +1,218 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 33,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This is gentrification in real time, and it’s displacing people every single day. But we have a secret weapon called SMART housing.\". This explains the exigence of the podcast as it shows the issue of displacement and the solution of SMART housing being used to combat it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exigence"
+        }
+      ],
+      "uuid": "63d55db4-ca6c-40ce-987d-83ddf14489e4"
+    },
+    {
+      "start_time": 57,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"SMART stands for Safe, Mixed-Income, Accessible, Reasonably-Priced, and Transit-Oriented housing. It’s housing built for those who are lower income as a way to provide lower housing prices, decrease homelessness, and promote diversity and population growth.\". This portion of text explains what SMART housing is, and what it stands for, as well as introducing the main stakeholders and audience for this podcast.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Housing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        }
+      ],
+      "uuid": "443d8ce8-abda-43b1-b6de-a0af448d2726"
+    },
+    {
+      "start_time": 100,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Rents go up. Property taxes skyrocket. Local businesses get wiped out and replaced with luxury apartments or chain stores. And just like that, the neighborhood changes, and with that, it loses the culture and what made it special.\". This helps us to focus on the communities being affected as well as using ethos while talking about the loss of culture coming with gentrification.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "479f1c6d-3a1b-4662-a697-a28a525e4e6b"
+    },
+    {
+      "start_time": 148,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"In Austin, for example, 49% of renters spend more than 30%, and some even more than 50% of their income just on housing. According to Mike Nellis from the Austin Community Foundation, “Lack of access to safe, affordable housing negatively impacts people’s physical and mental health… and is a driving force behind homelessness.”\". This one quote allows us to now have a precise location, and relative statistics about the area."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Location"
+        }
+      ],
+      "uuid": "c3c44063-ee76-49ee-8d84-8bfe55ec4b54"
+    },
+    {
+      "start_time": 193,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"As housing expert David Kanne puts it: “In today’s world of higher construction prices, land prices, and interest rates, you have to increase your density.” If developers don’t see financial incentives, they won’t prioritize affordability.\" Being a expert in the topic gives Kanne a sense of pathos as he is trustworthy, and hes correct, if we use logos its only reasonable that big companies will only want to agree to compomises if it leads to them getting paid. And lastly Kanne has personal experience in the field making him a credible source."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Experience"
+        }
+      ],
+      "uuid": "df475982-c044-40c5-901c-11cd51ab2775"
+    },
+    {
+      "start_time": 212,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Local and Federal governments can offer things like tax breaks, fee waivers, or density bonuses, which allow developers to build more units or save money if they include affordable housing in their projects. It's a win-win for the government if they lower homelessness at the same time.\". This gives the call to action for politicians as well as shows the true message that we want to get across through this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicians"
+        }
+      ],
+      "uuid": "6d3b851c-522e-448e-834b-6711680e9156"
+    },
+    {
+      "start_time": 257,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An article from Change.org put it best: “Change starts with a single action. Every voice can make a difference.” The more people we get talking about SMART housing, the more pressure we can put on lawmakers to push for real changes.\". This quote pushes for Ethos as its main source but its also very persuasive as its a call to action for the everyday person that reads this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        }
+      ],
+      "uuid": "1ba409b7-ba12-4b16-a6aa-9c8d4a0ba768"
+    },
+    {
+      "start_time": 289,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We can’t keep pretending that gentrification is just the price of progress. It’s an epidemic. And SMART housing could be a real part of the solution, If we push more from our local leaders and our federal government, then real change is much closer than we might think.\". This final paragraph brings us back to our message and genre of the entire story, and gives our story a very nice purpose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Purpose"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Genre"
+        }
+      ],
+      "uuid": "257d8b7b-0357-45b6-bf6a-9011f9bf36e8"
+    }
+  ],
   "set": "Default",
   "event_id": "4f240596-8cfb-40a4-86de-d79b7d9e6ab3",
   "source_id": "2fce0674-a052-42ec-b7ba-7d5b0e555a1a"
