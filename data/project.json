@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "egandabegan",
+    "is_private": false,
+    "title": "Fighting Gentrification With SMART Housing",
+    "description": "A short podcast episode describes Gentrification's effects and how we can use federally funded SMART housing to fight back.",
+    "language": "en",
+    "slug": "fighting-smart",
+    "creator": "egandabegan",
+    "authors": "Egan Lutz-Carrillo",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-04-24T14:59:07.438Z",
+    "updated_at": "2025-04-24T14:59:07.438Z"
   }
 }
