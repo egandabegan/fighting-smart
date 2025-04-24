@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-24T15:07:54.525Z",
+  "created_by": "egandabegan",
+  "title": "Audio Podcast",
+  "slug": "audio-podcast",
+  "updated_at": "2025-04-24T15:07:54.525Z",
+  "updated_by": "egandabegan",
+  "parent": "ae1e1e71-d3c6-4efb-9c17-87cb0796e66b",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "4f240596-8cfb-40a4-86de-d79b7d9e6ab3"
+  }
+}
